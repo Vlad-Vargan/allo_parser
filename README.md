@@ -21,7 +21,7 @@ Install requests:
 $ pip3 install requests
 ```
 - To get autocomplete for promt was copyed inner website AJAX request
-- Used all possible permutations with 1-3 letters of english and russian alphaber separetly
+- Used all possible permutations with 1-3 letters of english and russian alphabet separetly
 - Used threading to spead up requests but limited to the amount that the server can handle, because otherwise it shoots 429 ERROR
 - Used SQLite3 database with 2 tables(Products(promt, product), No_products(promt))
 - Before start it subtract permutations that already exist in a database
