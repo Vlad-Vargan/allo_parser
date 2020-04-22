@@ -2,8 +2,8 @@
 
 Web scrapper of prompt autocomplete
 
-Database in src/database.db
-Main script src/main.py
+- Database in src/database.db
+- Main script src/main.py
 
 ### Task:
 - Using Python 3
