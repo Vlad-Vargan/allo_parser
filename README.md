@@ -2,6 +2,9 @@
 
 Web scrapper of prompt autocomplete
 
+Database in src/database.db
+Main script src/main.py
+
 ### Task:
 - Using Python 3
 - Collect hints from the search string of the allo.ua online store (http://allo.ua/).
