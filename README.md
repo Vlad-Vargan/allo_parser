@@ -6,8 +6,7 @@ Web scrapper of prompt autocomplete
 - Main script src/main.py
 
 ### Task:
-- Using Python 3
-- Collect hints from the search string of the allo.ua online store (http://allo.ua/).
+Using Python 3 collect hints from the search string of the allo.ua online store (http://allo.ua/).
 
 ### Requirements:
   - Use Python 3.6
