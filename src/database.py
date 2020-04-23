@@ -7,7 +7,7 @@ class DbInterface:
         self.cursor = self.conn.cursor()
 
 
-    def clearUsers(self) -> None:
+    def clear_products(self) -> None:
         sql = 'DELETE FROM Products'
         try:
             self.cursor.execute(sql)
