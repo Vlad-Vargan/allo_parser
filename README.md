@@ -3,6 +3,8 @@
 Web scrapper of prompt autocomplete
 
 - Database in src/database.db
+-- 2339 unique promts with 10517 products autocomplete
+-- 6666 unique promts with NO products autocomplete
 - Main script src/main.py
 
 ### Task:
